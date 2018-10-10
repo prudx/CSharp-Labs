@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.exe.config
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.exe
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.pdb
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.exe
+C:\Users\Daniel\source\repos\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.pdb
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.exe.config
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.exe
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\bin\Debug\Sem7Lab1.pdb
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.exe
+C:\Users\Daniel\Documents\Code\C Sharp\Lab 1\Sem7Lab1\Sem7Lab1\obj\Debug\Sem7Lab1.pdb
